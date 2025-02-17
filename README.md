@@ -1,4 +1,5 @@
 python, js, ts
+
 discord: nerrdy_
 
 most my repos are random projects i started but never finished
